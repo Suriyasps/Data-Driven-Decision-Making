@@ -1,8 +1,8 @@
-# MGT7180 - Data Driven Decision Making
+# Data Driven Decision Making
 
-## Assignment - 1  
-**Student Name**: Suriya Subbiah Perumal  
-**Student ID**: 40423910  
+## Project
+**Project By**: Suriya Subbiah Perumal  
+ 
 
 ---
 
